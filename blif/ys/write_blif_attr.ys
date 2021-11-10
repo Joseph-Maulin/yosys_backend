@@ -1,0 +1,4 @@
+
+
+
+write_blif -attr backends/blif/results/write_blif_attr.blif

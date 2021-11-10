@@ -1,0 +1,4 @@
+
+
+
+write_xaiger -ascii backends/xaiger/results/write_xaiger_ascii.aig

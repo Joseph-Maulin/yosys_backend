@@ -1,0 +1,5 @@
+
+
+
+
+write_blif -true backends/blif/results/write_blif_true.blif

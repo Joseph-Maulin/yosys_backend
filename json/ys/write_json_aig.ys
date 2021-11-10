@@ -1,0 +1,5 @@
+
+
+
+
+write_json -aig backends/json/results/write_json_aig.json

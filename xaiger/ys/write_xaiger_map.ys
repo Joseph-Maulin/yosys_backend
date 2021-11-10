@@ -1,0 +1,3 @@
+
+
+write_xaiger -map backends/xaiger/results/write_xaiger_map.aig

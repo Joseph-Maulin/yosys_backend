@@ -1,0 +1,4 @@
+
+
+
+write_blif -buf backends/blif/results/write_blif_buf.blif

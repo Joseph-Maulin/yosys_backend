@@ -1,0 +1,4 @@
+
+
+
+write_spice -pos Vww backends/spice/results/write_spice_pos.spice

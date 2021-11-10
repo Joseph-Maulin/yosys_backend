@@ -1,0 +1,5 @@
+
+
+
+
+write_spice -inames backends/spice/results/write_spice_inames.spice

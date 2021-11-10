@@ -1,0 +1,5 @@
+
+
+
+
+write_spice -nc_prefix _MNC backends/spice/results/write_spice_nc_prefix.spice

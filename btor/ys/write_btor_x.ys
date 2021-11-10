@@ -1,0 +1,5 @@
+
+
+
+
+write_btor -x backends/btor/results/write_btor_x.btor

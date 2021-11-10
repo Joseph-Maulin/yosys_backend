@@ -1,0 +1,5 @@
+
+
+
+
+write_spice -buf DC backends/spice/results/write_spice_buf.spice

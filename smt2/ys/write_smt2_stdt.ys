@@ -1,0 +1,5 @@
+
+
+
+
+write_smt2 -stdt backends/smt2/results/write_smt2_stdt.smt

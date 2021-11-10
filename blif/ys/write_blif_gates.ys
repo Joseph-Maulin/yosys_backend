@@ -1,0 +1,5 @@
+
+
+
+
+write_blif -gates backends/blif/results/write_blif_gates.blif

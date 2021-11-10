@@ -1,0 +1,5 @@
+
+
+
+
+write_protobuf -aig backends/protobuf/results/write_protobuf_aig.proto

@@ -1,0 +1,5 @@
+
+
+
+
+write_blif -icells backends/blif/results/write_blif_icells.blif

@@ -1,0 +1,5 @@
+
+
+
+
+write_blif -blackbox backends/blif/results/write_blif_blackbox.blif

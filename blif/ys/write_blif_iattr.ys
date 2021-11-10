@@ -1,0 +1,5 @@
+
+
+
+
+write_blif -iattr backends/blif/results/write_blif_iattr.blif

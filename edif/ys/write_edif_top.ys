@@ -1,0 +1,5 @@
+
+
+
+
+write_edif -top top_module backends/edif/results/write_edif_top.edif

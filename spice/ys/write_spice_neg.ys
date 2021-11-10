@@ -1,0 +1,6 @@
+
+
+
+
+
+write_spice -neg Vxx backends/spice/results/write_spice_neg.spice

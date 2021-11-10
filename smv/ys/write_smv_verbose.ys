@@ -1,0 +1,5 @@
+
+
+
+
+write_smv -verbose backends/smv/results/write_smv_verbose.smv

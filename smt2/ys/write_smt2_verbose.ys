@@ -1,0 +1,6 @@
+
+
+
+
+
+write_smt2 -verbose backends/smt2/results/write_smt2_verbose.smt

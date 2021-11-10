@@ -1,0 +1,5 @@
+
+
+
+
+write_spice -big_endian backends/spice/results/write_spice_big_endian.spice

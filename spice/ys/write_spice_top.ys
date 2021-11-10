@@ -1,0 +1,5 @@
+
+
+
+
+write_spice -top top_module backends/spice/results/write_spice_top.spice

@@ -1,0 +1,4 @@
+
+
+
+write_xaiger -dff backends/xaiger/results/write_xaiger_dff.aig
